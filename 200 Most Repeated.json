@@ -1,0 +1,1002 @@
+[
+  {
+    "Word": "Philanthropist",
+    "Meaning": "A person who loves all mankind / Someone who freely gives money and help to people who need it",
+    "Hindi": "मानव प्रेमी, परोपकारी"
+  },
+  {
+    "Word": "Epitaph",
+    "Meaning": "An inscription on a tombstone in memory of the person who has died",
+    "Hindi": "समाधि-लेख"
+  },
+  {
+    "Word": "Obsolete",
+    "Meaning": "Something no longer in use",
+    "Hindi": "अप्रचलित"
+  },
+  {
+    "Word": "Illegible",
+    "Meaning": "Handwriting that is difficult or impossible to read",
+    "Hindi": "अपठनीय"
+  },
+  {
+    "Word": "Inevitable",
+    "Meaning": "Something that cannot be avoided / Certain to happen",
+    "Hindi": "अपरिहार्य"
+  },
+  {
+    "Word": "Aviary",
+    "Meaning": "A place for keeping birds in a confined space",
+    "Hindi": "पक्षीशाला/चिड़ियाघर"
+  },
+  {
+    "Word": "Contemporary",
+    "Meaning": "Belonging to the same time / A person living in the same age with another",
+    "Hindi": "समकालीन"
+  },
+  {
+    "Word": "Stoic",
+    "Meaning": "A person who can endure pain or hardship without showing his feelings/complaining",
+    "Hindi": "सहनशील, भावहीन"
+  },
+  {
+    "Word": "Atheist",
+    "Meaning": "One who doesn't believe in the existence of God",
+    "Hindi": "नास्तिक"
+  },
+  {
+    "Word": "Cartographer",
+    "Meaning": "A person who draws or makes maps",
+    "Hindi": "मानचित्रकार"
+  },
+  {
+    "Word": "Claustrophobia",
+    "Meaning": "An extreme fear of being in a small confined place",
+    "Hindi": "छोटी जगह में होने का अत्यधिक डर"
+  },
+  {
+    "Word": "Omniscient",
+    "Meaning": "One who knows everything",
+    "Hindi": "सर्वज्ञानी"
+  },
+  {
+    "Word": "Panacea",
+    "Meaning": "A solution for all difficulties or diseases",
+    "Hindi": "रामबाण इलाज"
+  },
+  {
+    "Word": "Polyglot",
+    "Meaning": "A person who knows and is able to use several languages",
+    "Hindi": "बहुभाषी"
+  },
+  {
+    "Word": "Chronology",
+    "Meaning": "An arrangement of events or dates in the order of their occurrence",
+    "Hindi": "कालक्रम"
+  },
+  {
+    "Word": "Extempore",
+    "Meaning": "A speech or a presentation made without previous preparation",
+    "Hindi": "बिना तैयारी के"
+  },
+  {
+    "Word": "Fastidious",
+    "Meaning": "One who is difficult to please",
+    "Hindi": "चूजी, नख़रीला/कठिन"
+  },
+  {
+    "Word": "Utopia",
+    "Meaning": "An imagined society where everything is perfect and everyone is happy / A place of ideal perfection especially in laws, government, and social conditions",
+    "Hindi": "आदर्शवादी कल्पनालोक / समाज / राज्य"
+  },
+  {
+    "Word": "Amateur",
+    "Meaning": "One who plays for pleasure rather than as a profession / A person who is neither well-experienced nor professional",
+    "Hindi": "शौकिया व्यक्ति । अनुभवीहीन"
+  },
+  {
+    "Word": "Ambidextrous",
+    "Meaning": "Able to use both hands equally well",
+    "Hindi": "अम्बिदक्ष (दोनों हाथों से समान रूप से काम करने वाला)"
+  },
+  {
+    "Word": "Iconoclast",
+    "Meaning": "A person who attacks or criticizes cherished beliefs or institutions",
+    "Hindi": "विचार, तोड़नेवाला"
+  },
+  {
+    "Word": "Infallible",
+    "Meaning": "One who cannot make mistakes",
+    "Hindi": "अचूक"
+  },
+  {
+    "Word": "Altruist",
+    "Meaning": "Someone who makes charitable donations intended for the welfare of others",
+    "Hindi": "परोपकारी"
+  },
+  {
+    "Word": "Archive",
+    "Meaning": "The place where public, government, or historical records are kept",
+    "Hindi": "अभिलेखાગਾਰ"
+  },
+  {
+    "Word": "Bibliophile",
+    "Meaning": "A person who loves or collects books",
+    "Hindi": "पुस्तक प्रेमी"
+  },
+  {
+    "Word": "Genocide",
+    "Meaning": "The murder of a whole race or group of people",
+    "Hindi": "नरसंहार"
+  },
+  {
+    "Word": "Inaudible",
+    "Meaning": "A sound that cannot be heard",
+    "Hindi": "असश्रव्य"
+  },
+  {
+    "Word": "Incorrigible",
+    "Meaning": "One who cannot be corrected / One who is beyond reform",
+    "Hindi": "अक्षम्य (जो कमी न सुधार सके)"
+  },
+  {
+    "Word": "Lexicographer",
+    "Meaning": "A person who writes and edits dictionaries",
+    "Hindi": "शब्दकोशकार"
+  },
+  {
+    "Word": "Mercenary",
+    "Meaning": "Someone working or acting merely for money or other rewards / A soldier who fights for money",
+    "Hindi": "किराए का सैनिक"
+  },
+  {
+    "Word": "Misanthrope",
+    "Meaning": "A person who hates and avoids other people",
+    "Hindi": "मानवद्वेषी"
+  },
+  {
+    "Word": "Nostalgia",
+    "Meaning": "Sentimental longing for a period in the past",
+    "Hindi": "अतीत की घटनाओं की यादें"
+  },
+  {
+    "Word": "Amphibians",
+    "Meaning": "Animals that can live both on land and in water",
+    "Hindi": "उभयचर जन्तु (वे जीव जो जल और स्थल दोनों में रह सकते हैं)"
+  },
+  {
+    "Word": "Autobiography",
+    "Meaning": "The life history of a person written by himself",
+    "Hindi": "आत्मकथा"
+  },
+  {
+    "Word": "Cannibal",
+    "Meaning": "A person who eats human flesh",
+    "Hindi": "नरभक्षी"
+  },
+  {
+    "Word": "Chauffeur",
+    "Meaning": "A person employed to drive a private or hired car",
+    "Hindi": "मोटर-चालक"
+  },
+  {
+    "Word": "Entomology",
+    "Meaning": "The scientific study of worms and insects",
+    "Hindi": "कीटविज्ञान"
+  },
+  {
+    "Word": "Insolvent",
+    "Meaning": "One who is unable to pay debts",
+    "Hindi": "दिवालिया"
+  },
+  {
+    "Word": "Kleptomania",
+    "Meaning": "A person with a strong desire to steal",
+    "Hindi": "चोरी करने की बीमारी"
+  },
+  {
+    "Word": "Oligarchy",
+    "Meaning": "Government or rule by a small group of people",
+    "Hindi": "अल्पतंत्र"
+  },
+  {
+    "Word": "Omnipotent",
+    "Meaning": "One who is all-powerful",
+    "Hindi": "सर्वशक्तिमान"
+  },
+  {
+    "Word": "Philatelist",
+    "Meaning": "A person who collects or studies stamps",
+    "Hindi": "डाक के टिकट का संग्रहकर्ता"
+  },
+  {
+    "Word": "Teetotaller",
+    "Meaning": "A person who never takes alcoholic drinks",
+    "Hindi": "पूर्ण शराबबंदी"
+  },
+  {
+    "Word": "Versatile",
+    "Meaning": "Someone having many skills",
+    "Hindi": "सर्वगुण सम्पन्न"
+  },
+  {
+    "Word": "Anarchist",
+    "Meaning": "A person who believes that laws and governments are not necessary // A person who believes in or tries to bring about a state of lawlessness",
+    "Hindi": "अराजकतावादी"
+  },
+  {
+    "Word": "Calligraphy",
+    "Meaning": "The art of beautiful handwriting",
+    "Hindi": "सुलेख"
+  },
+  {
+    "Word": "Constellation",
+    "Meaning": "A group of stars that forms a shape in the sky and has a name",
+    "Hindi": "नक्षत्र"
+  },
+  {
+    "Word": "Gregarious",
+    "Meaning": "An animal that lives in groups // Tending to associate with others of one's kind",
+    "Hindi": "झुंड में रहनेवाला"
+  },
+  {
+    "Word": "Introvert",
+    "Meaning": "A quiet person who is more interested in his own thoughts and feelings than in spending time with other people",
+    "Hindi": "अंतर्मुखी व्यक्ति"
+  },
+  {
+    "Word": "Orchard",
+    "Meaning": "A piece of land/garden in which fruit trees are grown",
+    "Hindi": "फलोद्यान"
+  },
+  {
+    "Word": "Potable",
+    "Meaning": "Fit to drink (water)",
+    "Hindi": "पीने योग्य"
+  },
+  {
+    "Word": "Accomplice",
+    "Meaning": "A person who helps another to commit a crime or do something morally wrong // A partner in crime",
+    "Hindi": "सह-अपराधी"
+  },
+  {
+    "Word": "Agnostic",
+    "Meaning": "One who is not sure about God's existence",
+    "Hindi": "ईश्वर के बारे में संदेहवादी व्यक्ति"
+  },
+  {
+    "Word": "Amnesia",
+    "Meaning": "A partial or total loss of memory",
+    "Hindi": "भूलने की बीमारी"
+  },
+  {
+    "Word": "Anarchy",
+    "Meaning": "A situation in which there is no government, order, or control",
+    "Hindi": "अव्यवस्था/अराजकता"
+  },
+  {
+    "Word": "Cosmopolitan",
+    "Meaning": "A person who regards the whole world as his country // One who is a citizen not of a country but of the world",
+    "Hindi": "समस्त संसार का, विश्व नागरिक"
+  },
+  {
+    "Word": "Emigrant",
+    "Meaning": "A person who leaves his country to live in another",
+    "Hindi": "अपने देश को छोड़ने वाला"
+  },
+  {
+    "Word": "Ephemeral",
+    "Meaning": "Lasting for a very short time",
+    "Hindi": "क्षणिक"
+  },
+  {
+    "Word": "Exonerate",
+    "Meaning": "To free somebody from all blame",
+    "Hindi": "दोषमुक्त करना"
+  },
+  {
+    "Word": "Gullible",
+    "Meaning": "One who is easily deceived",
+    "Hindi": "भोला भाला"
+  },
+  {
+    "Word": "Honorary",
+    "Meaning": "Holding an office without receiving a pay",
+    "Hindi": "अवैतनिक"
+  },
+  {
+    "Word": "Hypochondriac",
+    "Meaning": "A person who suffers from an imaginary illness // A person who is abnormally anxious about his health",
+    "Hindi": "रोगमंडी"
+  },
+  {
+    "Word": "Hypocrite",
+    "Meaning": "A person pretending to be somebody he isn't",
+    "Hindi": "पाखंडी"
+  },
+  {
+    "Word": "Invincible",
+    "Meaning": "That which cannot be conquered",
+    "Hindi": "अजेय"
+  },
+  {
+    "Word": "Mint",
+    "Meaning": "A place where money is coined by authority of the government",
+    "Hindi": "टकसाल"
+  },
+  {
+    "Word": "Narcissist",
+    "Meaning": "A person who admires himself/herself too much, especially his appearance",
+    "Hindi": "आत्ममुग्ध"
+  },
+  {
+    "Word": "Notorious",
+    "Meaning": "Well-known for being bad / A person of evil reputation",
+    "Hindi": "कुख्यात"
+  },
+  {
+    "Word": "Numismatist",
+    "Meaning": "A person who collects coins",
+    "Hindi": "मुद्राशास्त्री"
+  },
+  {
+    "Word": "Shoal",
+    "Meaning": "A large number of fish swimming together",
+    "Hindi": "मछलियों का समूह"
+  },
+  {
+    "Word": "Apiary",
+    "Meaning": "A place where bees are kept",
+    "Hindi": "मधुमक्खियों के पालने का स्थान"
+  },
+  {
+    "Word": "Arsenal",
+    "Meaning": "A military structure where arms and ammunition and other military equipment are stored",
+    "Hindi": "शस्त्रागार"
+  },
+  {
+    "Word": "Biography",
+    "Meaning": "The story of a person's life written by somebody else",
+    "Hindi": "जीवनी"
+  },
+  {
+    "Word": "Caravan",
+    "Meaning": "House or shelter of a gypsy / A group of people, especially traders or pilgrims, traveling together across a desert",
+    "Hindi": "कारवां"
+  },
+  {
+    "Word": "Connoisseur",
+    "Meaning": "A man who knows a lot about things like food, music, and art",
+    "Hindi": "पारखी, किलास"
+  },
+  {
+    "Word": "Effeminate",
+    "Meaning": "Man behaving more like a woman than as a man",
+    "Hindi": "नारी जैसा"
+  },
+  {
+    "Word": "Elegy",
+    "Meaning": "A poem that expresses lament for the dead",
+    "Hindi": "शोकगीत"
+  },
+  {
+    "Word": "Epilogue",
+    "Meaning": "A short speech at the end of a play",
+    "Hindi": "उपसंहार"
+  },
+  {
+    "Word": "Fatalist",
+    "Meaning": "A person who believes that all events are predetermined or subject to fate",
+    "Hindi": "भाग्यवादी"
+  },
+  {
+    "Word": "Florist",
+    "Meaning": "A person who sells and arranges cut flowers",
+    "Hindi": "पुष्पविक्रेता"
+  },
+  {
+    "Word": "Hydrophobia",
+    "Meaning": "Extreme fear of water",
+    "Hindi": "पानी का डर"
+  },
+  {
+    "Word": "Itinerary",
+    "Meaning": "A plan of a journey, including the route and the places that will be visited",
+    "Hindi": "यात्रा कार्यक्रम"
+  },
+  {
+    "Word": "Manuscript",
+    "Meaning": "A copy of a book, piece of music, etc. before it has been printed / A paper written by hand",
+    "Hindi": "हस्तलिखित"
+  },
+  {
+    "Word": "Misogynist",
+    "Meaning": "A person who dislikes women",
+    "Hindi": "स्त्री द्वेषी"
+  },
+  {
+    "Word": "Pedestrian",
+    "Meaning": "A person who walks on foot and not travelling in a vehicle",
+    "Hindi": "पैदल यात्री"
+  },
+  {
+    "Word": "Pessimist",
+    "Meaning": "A person who always expects bad things to happen or something not to be successful",
+    "Hindi": "निराशावादी"
+  },
+  {
+    "Word": "Posthumous",
+    "Meaning": "Occurring or coming into existence after a person's death",
+    "Hindi": "मरणोपरांत"
+  },
+  {
+    "Word": "Regicide",
+    "Meaning": "The murder of a king",
+    "Hindi": "राज-हत्या"
+  },
+  {
+    "Word": "Somnambulist",
+    "Meaning": "Someone who walks about in sleep",
+    "Hindi": "नींद में चलने वाला"
+  },
+  {
+    "Word": "Acoustics",
+    "Meaning": "The scientific study of sound",
+    "Hindi": "ध्वनि-विज्ञान"
+  },
+  {
+    "Word": "Alimony",
+    "Meaning": "The money paid to former wife, husband or partner when the marriage is ended",
+    "Hindi": "छोड़े हुए साथी के लिए गुजारा भत्ता"
+  },
+  {
+    "Word": "Anthropology",
+    "Meaning": "The study of the human race, especially of its origin, development, customs, and beliefs",
+    "Hindi": "मानव विज्ञान"
+  },
+  {
+    "Word": "Aquarium",
+    "Meaning": "A glass tank where fish and water plants are kept",
+    "Hindi": "मछलिघर"
+  },
+  {
+    "Word": "Arbitrator",
+    "Meaning": "A person who is chosen to settle a disagreement / A person appointed by two parties to resolve a dispute",
+    "Hindi": "पंच/मध्यस्थ"
+  },
+  {
+    "Word": "Archaeology",
+    "Meaning": "The study of human history and prehistory through the excavation of sites",
+    "Hindi": "पुरातत्व"
+  },
+  {
+    "Word": "Aristocracy",
+    "Meaning": "A government by the nobles / government by a person of highest social order",
+    "Hindi": "श्रेष्ठ वर्ग के द्वारा शासन"
+  },
+  {
+    "Word": "Brittle",
+    "Meaning": "Hard but easily broken / liable to break easily",
+    "Hindi": "भंगुर/आसानी से टूटने योग्य"
+  },
+  {
+    "Word": "Congregation",
+    "Meaning": "An assembly of worshippers / A group of people who have come together in a religious building for worship and prayer",
+    "Hindi": "धार्मिक सभा"
+  },
+  {
+    "Word": "Curator",
+    "Meaning": "A keeper or custodian of a museum or other collection",
+    "Hindi": "संग्रहालय अध्यक्ष"
+  },
+  {
+    "Word": "Dermatology",
+    "Meaning": "The scientific study of skin diseases",
+    "Hindi": "त्वचा विज्ञान"
+  },
+  {
+    "Word": "Fatal",
+    "Meaning": "Causing or ending in death",
+    "Hindi": "घातक"
+  },
+  {
+    "Word": "Glutton",
+    "Meaning": "One who eats too much",
+    "Hindi": "खाद्य, पेटू"
+  },
+  {
+    "Word": "Illiterate",
+    "Meaning": "A person who cannot read or write",
+    "Hindi": "अशिक्षित"
+  },
+  {
+    "Word": "Insomnia",
+    "Meaning": "The condition of being unable to sleep over a period of time",
+    "Hindi": "अनिद्रा"
+  },
+  {
+    "Word": "Invigilator",
+    "Meaning": "A person who supervises during an examination",
+    "Hindi": "निरीक्षक"
+  },
+  {
+    "Word": "Opaque",
+    "Meaning": "That through which light cannot pass",
+    "Hindi": "अपारदर्शी"
+  },
+  {
+    "Word": "Sacrilege",
+    "Meaning": "Violation of something holy or sacred",
+    "Hindi": "अपवित्रीकरण"
+  },
+  {
+    "Word": "Soliloquy",
+    "Meaning": "A speech made to oneself",
+    "Hindi": "आत्मभाषण"
+  },
+  {
+    "Word": "Usurer",
+    "Meaning": "One who lends money on high rates of interest",
+    "Hindi": "सूदखोर"
+  },
+  {
+    "Word": "Volunteer",
+    "Meaning": "One who offers one's services without being forced",
+    "Hindi": "स्वयं सेवक"
+  },
+  {
+    "Word": "Abdicate",
+    "Meaning": "To give up one's authority or throne",
+    "Hindi": "अपना पद (या दावा) छोड़ देना"
+  },
+  {
+    "Word": "Almanac",
+    "Meaning": "A publication containing astronomical or meteorological annual calendar that contains important dates and time",
+    "Hindi": "पंचांग"
+  },
+  {
+    "Word": "Ambiguous",
+    "Meaning": "Capable of being understood in either of two or more possible senses, and therefore not definite",
+    "Hindi": "संदिग्ध/अस्पष्ट"
+  },
+  {
+    "Word": "Anonymous",
+    "Meaning": "Whose names are not known // An unknown author",
+    "Hindi": "बेनाम/गुमनाम"
+  },
+  {
+    "Word": "Apostate",
+    "Meaning": "A person who renounces a religious or political belief or principle",
+    "Hindi": "धर्म त्यागी"
+  },
+  {
+    "Word": "Auditor",
+    "Meaning": "One who makes an official examination of accounts/financial records",
+    "Hindi": "हिसाब किताब की जांच करने वाला"
+  },
+  {
+    "Word": "Bilingual",
+    "Meaning": "A person who can speak only two languages",
+    "Hindi": "द्विभाषिक"
+  },
+  {
+    "Word": "Blasphemy",
+    "Meaning": "Words uttered impiously about God // The act of speaking irreverently about sacred things",
+    "Hindi": "ईश्वर की निंदा"
+  },
+  {
+    "Word": "Botany",
+    "Meaning": "The scientific study of plants and their structure",
+    "Hindi": "वनस्पति विज्ञान"
+  },
+  {
+    "Word": "Bouquet",
+    "Meaning": "An arrangement of flowers that is usually given as a present",
+    "Hindi": "गुलदस्ता"
+  },
+  {
+    "Word": "Colleague",
+    "Meaning": "A person that one works with at the same place, in a profession or a business",
+    "Hindi": "सहकर्मी"
+  },
+  {
+    "Word": "Convalescence",
+    "Meaning": "Gradual recovery of health and strength",
+    "Hindi": "बीमारी से ठीक होना"
+  },
+  {
+    "Word": "Credulous",
+    "Meaning": "A person who readily believes others easily",
+    "Hindi": "भोला-भाला"
+  },
+  {
+    "Word": "Dermatologist",
+    "Meaning": "A doctor who studies and treats skin diseases",
+    "Hindi": "त्वचा विशेषज्ञ"
+  },
+  {
+    "Word": "Edible",
+    "Meaning": "A thing fit to be eaten",
+    "Hindi": "खाद्य"
+  },
+  {
+    "Word": "Epidemic",
+    "Meaning": "Widespread outbreak of a disease which affects large populations at the same time",
+    "Hindi": "महामारी"
+  },
+  {
+    "Word": "Fanatic",
+    "Meaning": "A person motivated by irrational enthusiasm",
+    "Hindi": "कट्टरपंथी"
+  },
+  {
+    "Word": "Flora",
+    "Meaning": "The plants and vegetation of a particular region",
+    "Hindi": "वनस्पति"
+  },
+  {
+    "Word": "Fugitive",
+    "Meaning": "A person who has escaped from captivity or is in hiding",
+    "Hindi": "भगोड़ा"
+  },
+  {
+    "Word": "Geology",
+    "Meaning": "The study of earth, including the origin and history of the rocks and soil of which the earth is made",
+    "Hindi": "भूविज्ञान"
+  },
+  {
+    "Word": "Incredible",
+    "Meaning": "That which cannot be believed",
+    "Hindi": "अविश्वसनीय"
+  },
+  {
+    "Word": "Indefatigable",
+    "Meaning": "Incapable of feeling tired or exhausted",
+    "Hindi": "न थकनेवाला"
+  },
+  {
+    "Word": "Inflammable",
+    "Meaning": "That can burn/catches fire easily",
+    "Hindi": "ज्वलनशील"
+  },
+  {
+    "Word": "Irrevocable",
+    "Meaning": "That which cannot be called back",
+    "Hindi": "अटल"
+  },
+  {
+    "Word": "Nepotism",
+    "Meaning": "Giving undue favors to one's own kith and kin",
+    "Hindi": "भाई-भतीजावाद"
+  },
+  {
+    "Word": "Novice",
+    "Meaning": "A person who is new to a profession without training or experience in a skill or subject",
+    "Hindi": "नौसिखिया"
+  },
+  {
+    "Word": "Numismatics",
+    "Meaning": "The study or collection of coins",
+    "Hindi": "मुद्राशास्त्र"
+  },
+  {
+    "Word": "Obituary",
+    "Meaning": "A notice of a person's death",
+    "Hindi": "शोक संदेश"
+  },
+  {
+    "Word": "Optimist",
+    "Meaning": "One who sees the bright side of things",
+    "Hindi": "आशावादी"
+  },
+  {
+    "Word": "Pacifist",
+    "Meaning": "A person who opposes war or use of military force",
+    "Hindi": "शांतिवादी"
+  },
+  {
+    "Word": "Philistine",
+    "Meaning": "A person who does not like, understand, or enjoy the beauty of art, literature, music, etc.",
+    "Hindi": "अशिष्ट"
+  },
+  {
+    "Word": "Plagiarism",
+    "Meaning": "Stealing of ideas or writings of someone else",
+    "Hindi": "साहित्यिक चोरी"
+  },
+  {
+    "Word": "Plutocracy",
+    "Meaning": "Government by the richest people of a country",
+    "Hindi": "धनिक तंत्र"
+  },
+  {
+    "Word": "Psychology",
+    "Meaning": "The scientific study of the mind and how it influences behavior",
+    "Hindi": "मनोविज्ञान"
+  },
+  {
+    "Word": "Recluse",
+    "Meaning": "A person who withdraws from the world to live in seclusion and often in solitude",
+    "Hindi": "वैरागी"
+  },
+  {
+    "Word": "Sheath",
+    "Meaning": "A close-fitting cover for a sword or knife // Cover for the blade of a weapon or a tool",
+    "Hindi": "म्यान"
+  },
+  {
+    "Word": "Souvenir",
+    "Meaning": "Something kept as a reminder of an event",
+    "Hindi": "निशानी"
+  },
+  {
+    "Word": "Verbatim",
+    "Meaning": "In exactly the same words as were used originally",
+    "Hindi": "शब्द प्रतिशब्द"
+  },
+  {
+    "Word": "Veteran",
+    "Meaning": "A person who is long experienced or practiced in an activity",
+    "Hindi": "अनुभवी"
+  },
+  {
+    "Word": "Wreath",
+    "Meaning": "A decorative ring of flowers and leaves",
+    "Hindi": "फूलों की माला"
+  },
+  {
+    "Word": "Acrophobia",
+    "Meaning": "Fear of great heights",
+    "Hindi": "ऊँचाई का डर"
+  },
+  {
+    "Word": "Aesthetic",
+    "Meaning": "Concerned with beauty or the appreciation of beauty",
+    "Hindi": "सौंदर्य संबंधी"
+  },
+  {
+    "Word": "Agenda",
+    "Meaning": "A list of items to be discussed at a meeting",
+    "Hindi": "कार्यसूची"
+  },
+  {
+    "Word": "Antidote",
+    "Meaning": "A medicine to nullify the effect of poison or another medicine",
+    "Hindi": "विष नाशक"
+  },
+  {
+    "Word": "Aquatic",
+    "Meaning": "Animals and plants growing or living in, or near water",
+    "Hindi": "जलीय"
+  },
+  {
+    "Word": "Ascetic",
+    "Meaning": "One who denies oneself ordinary bodily pleasures",
+    "Hindi": "सन्यासी"
+  },
+  {
+    "Word": "Astronaut",
+    "Meaning": "A person engaged in or trained for spaceflight",
+    "Hindi": "अंतरिक्ष यात्री"
+  },
+  {
+    "Word": "Astronomy",
+    "Meaning": "The scientific study of celestial bodies like sun, moon, stars, planets, etc.",
+    "Hindi": "खगोल शास्त्र"
+  },
+  {
+    "Word": "Cardiologist",
+    "Meaning": "A doctor who specializes in the study or treatment of heart diseases",
+    "Hindi": "हृदय रोग विशेषज्ञ"
+  },
+  {
+    "Word": "Carnivorous",
+    "Meaning": "Animals that eat meat",
+    "Hindi": "मांसाहारी"
+  },
+  {
+    "Word": "Casino",
+    "Meaning": "A place where gambling games are played",
+    "Hindi": "जुआघर"
+  },
+  {
+    "Word": "Catalogue",
+    "Meaning": "A list or collection of books or informative graphics",
+    "Hindi": "सूची"
+  },
+  {
+    "Word": "Cortege",
+    "Meaning": "A funeral procession",
+    "Hindi": "शव-यात्रा"
+  },
+  {
+    "Word": "Cynosure",
+    "Meaning": "Centre of attraction",
+    "Hindi": "आकर्षण-बिंदु"
+  },
+  {
+    "Word": "Demagogue",
+    "Meaning": "A leader who sways his followers by his oratory",
+    "Hindi": "जनोत्तेजक नेता"
+  },
+  {
+    "Word": "Demography",
+    "Meaning": "The study of population and its dynamics",
+    "Hindi": "जनसांख्यिकी"
+  },
+  {
+    "Word": "Dormitory",
+    "Meaning": "A large bedroom for a number of people in a school or institution",
+    "Hindi": "शयनागार"
+  },
+  {
+    "Word": "Draw",
+    "Meaning": "A game in which no one wins",
+    "Hindi": "अनिर्णीत"
+  },
+  {
+    "Word": "Encyclopedia",
+    "Meaning": "A book or set of books giving information about all areas of knowledge",
+    "Hindi": "विश्वकोश"
+  },
+  {
+    "Word": "Fratricide",
+    "Meaning": "Murder of one's brother or sister",
+    "Hindi": "भ्रातृहत्या"
+  },
+  {
+    "Word": "Hamlet",
+    "Meaning": "A very small village",
+    "Hindi": "छोटा गांव"
+  },
+  {
+    "Word": "Hangar",
+    "Meaning": "A building in which aircraft are housed",
+    "Hindi": "विमानशाला"
+  },
+  {
+    "Word": "Homogeneous",
+    "Meaning": "All (things or people) of the same or similar kind or nature",
+    "Hindi": "सजातीय"
+  },
+  {
+    "Word": "Horticulture",
+    "Meaning": "The study of growing garden plants",
+    "Hindi": "उद्यान-विज्ञान"
+  },
+  {
+    "Word": "Insatiable",
+    "Meaning": "That which cannot be satisfied",
+    "Hindi": "लालची"
+  },
+  {
+    "Word": "Martyr",
+    "Meaning": "Someone who is killed fighting for the cause of religion or faith",
+    "Hindi": "शहीद"
+  },
+  {
+    "Word": "Mortuary",
+    "Meaning": "A place for keeping dead bodies before burial or cremation",
+    "Hindi": "शवगृह"
+  },
+  {
+    "Word": "Omnipresent",
+    "Meaning": "Present everywhere",
+    "Hindi": "सर्वव्यापक"
+  },
+  {
+    "Word": "Ornithology",
+    "Meaning": "The scientific study of birds",
+    "Hindi": "पक्षीविज्ञान"
+  },
+  {
+    "Word": "Pseudonym",
+    "Meaning": "A fictitious name especially one assumed by an author",
+    "Hindi": "उपनाम"
+  },
+  {
+    "Word": "Regalia",
+    "Meaning": "Dress with medals, ribbons worn at official ceremony // symbols of royalty",
+    "Hindi": "राजचिह्न, पदवी चिह्न, परिधान"
+  },
+  {
+    "Word": "Reticent",
+    "Meaning": "A person very reserved in speech",
+    "Hindi": "अल्पभाषी"
+  },
+  {
+    "Word": "Samaritan",
+    "Meaning": "One who helps a person in need",
+    "Hindi": "नेक व्यक्ति"
+  },
+  {
+    "Word": "Sinecure",
+    "Meaning": "An office with high salary but no work",
+    "Hindi": "आराम की नौकरी"
+  },
+  {
+    "Word": "Theology",
+    "Meaning": "The study of the nature of God and religious beliefs // The study of religion",
+    "Hindi": "धर्मशास्त्र (धार्मिक विश्वास का अध्ययन)"
+  },
+  {
+    "Word": "Abattoir",
+    "Meaning": "A place where animals are slaughtered for consumption as food",
+    "Hindi": "कसाईखाना"
+  },
+  {
+    "Word": "Amnesty",
+    "Meaning": "An official pardon // the formal act of liberating someone",
+    "Hindi": "राज-क्षमा"
+  },
+  {
+    "Word": "Autocracy",
+    "Meaning": "A system of government of a country in which one person has complete power",
+    "Hindi": "तानाशाही"
+  },
+  {
+    "Word": "Bale",
+    "Meaning": "A large bundle bound for storage or transport",
+    "Hindi": "गठर/गांठ"
+  },
+  {
+    "Word": "Bankrupt",
+    "Meaning": "One who is unable to pay his debts",
+    "Hindi": "दिवालिया"
+  },
+  {
+    "Word": "Barometer",
+    "Meaning": "An instrument used for measuring atmospheric pressure",
+    "Hindi": "वायु-दाब-मापक"
+  },
+  {
+    "Word": "Bevy",
+    "Meaning": "A group of girls/boys/birds, etc.",
+    "Hindi": "झुंड"
+  },
+  {
+    "Word": "Bibliography",
+    "Meaning": "A list of the books referred to in a scholarly work",
+    "Hindi": "संदर्भ ग्रंथसूची (संदर्भित पुस्तकों की सूची)"
+  },
+  {
+    "Word": "Bureaucracy",
+    "Meaning": "A government run by officials in a state",
+    "Hindi": "नौकरशाही"
+  },
+  {
+    "Word": "Cacophony",
+    "Meaning": "Harsh or discordant sound // Loud confusing disagreeable sounds // An incongruous or chaotic mixture",
+    "Hindi": "कोलाहल, कर्कश ध्वनि"
+  },
+  {
+    "Word": "Calligrapher",
+    "Meaning": "A person who is skilled at producing beautiful handwriting",
+    "Hindi": "सुलेखक"
+  },
+  {
+    "Word": "Cartography",
+    "Meaning": "The art or process of drawing or making maps",
+    "Hindi": "मानचित्रकारी"
+  },
+  {
+    "Word": "Choreographer",
+    "Meaning": "One who plans the steps and moves in a dance",
+    "Hindi": "नृत्य-निर्देशक"
+  },
+  {
+    "Word": "Contagious",
+    "Meaning": "Easily spread from one person to another (disease) // A disease which spreads with contact",
+    "Hindi": "संक्रामक"
+  },
+  {
+    "Word": "Cynic",
+    "Meaning": "One who sneers at the aims and beliefs of his fellow men // A person who believes that only selfishness motivates human actions",
+    "Hindi": "निंदक, मानवद्वेषी"
+  },
+  {
+    "Word": "Democracy",
+    "Meaning": "A system of government in which all the people of a country can vote to elect their representatives",
+    "Hindi": "लोकतंत्र/प्रजातंत्र/जनतंत्र"
+  }
+]
