@@ -4,9 +4,9 @@ import telebot
 from datetime import datetime, time as dt_time
 from keep_alive import keep_alive
 
-# === CONFIG ===
-BOT_TOKEN = '7614609361:AAFhaKMZP0X_VXItWFDDL-d30YKaiUxxe0M'  # 🔁 Replace with your actual bot token
-GROUP_ID = -1002862711974           # 🔁 Replace with your group ID
+
+BOT_TOKEN = os.environ.get("BOT_API_TOKEN")  # 🔁 Replace with your actual bot token
+GROUP_ID = os.environ.get("GROUP_ID")           # 🔁 Replace with your group ID
 THREAD_ID = 2                       # 🔁 Replace with topic/thread ID (or remove this if not using topics)
 
 WORDS_PER_BATCH = 5                # 🔁 Number of vocab per batch
@@ -19,7 +19,7 @@ USED_WORDS_FILE = 'used_words.json'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
-# === Vocab Handling ===
+
 
 def load_vocab():
     with open(VOCAB_FILE, 'r', encoding='utf-8') as f:
