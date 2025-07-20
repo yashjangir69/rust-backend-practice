@@ -1,26 +1,27 @@
+import os
 import json
 import time
 import telebot
+import threading
 from datetime import datetime, time as dt_time
-from keep_alive import keep_alive
+from flask import Flask
 
+# === CONFIG ===
+BOT_TOKEN = os.environ.get("BOT_API_TOKEN")
+GROUP_ID = int(os.environ.get("GROUP_ID"))  # Note: env vars are strings, cast to int
+THREAD_ID = int(os.environ.get("THREAD_ID", 2))  # Optional thread/topic
 
-BOT_TOKEN = os.environ.get("BOT_API_TOKEN")  # 🔁 Replace with your actual bot token
-GROUP_ID = os.environ.get("GROUP_ID")           # 🔁 Replace with your group ID
-THREAD_ID = 2                       # 🔁 Replace with topic/thread ID (or remove this if not using topics)
-
-WORDS_PER_BATCH = 5                # 🔁 Number of vocab per batch
-INTERVAL_SECONDS = 60     # ⏰ 2 hours = 7200 seconds
-ALLOWED_START = dt_time(0, 0)      # Start at 7:00 AM
-ALLOWED_END = dt_time(23, 0)       # Stop after 11:00 PM
+WORDS_PER_BATCH = 5
+INTERVAL_SECONDS = 60  # 1 min (for testing)
+ALLOWED_START = dt_time(0, 0)
+ALLOWED_END = dt_time(23, 0)
 
 VOCAB_FILE = 'vocab.json'
 USED_WORDS_FILE = 'used_words.json'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
-
-
+# === Vocab Utilities ===
 def load_vocab():
     with open(VOCAB_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -42,8 +43,7 @@ def format_vocab_list(vocab_list):
         for item in vocab_list
     ])
 
-# === Bot Command ===
-
+# === Telegram Bot Command ===
 @bot.message_handler(commands=['getid'])
 def get_thread_id(message):
     if message.is_topic_message:
@@ -54,8 +54,7 @@ def get_thread_id(message):
     else:
         bot.reply_to(message, "❗ Please send this command inside a topic.")
 
-# === Auto Vocab Sending Loop ===
-
+# === Vocab Scheduler ===
 def run_vocab_scheduler():
     while True:
         now = datetime.now().time()
@@ -63,7 +62,6 @@ def run_vocab_scheduler():
         if ALLOWED_START <= now <= ALLOWED_END:
             vocab = load_vocab()
             used = load_used_words()
-
             remaining = [v for v in vocab if v['Word'] not in used]
 
             if not remaining:
@@ -78,25 +76,37 @@ def run_vocab_scheduler():
             save_used_words(used)
 
             message = format_vocab_list(batch)
-
             bot.send_message(GROUP_ID,
                              message,
                              parse_mode="Markdown",
                              message_thread_id=THREAD_ID)
 
-            print(f"✅ Sent vocab batch at {datetime.now()} — sleeping for 2 hours.")
+            print(f"✅ Sent vocab batch at {datetime.now()} — sleeping {INTERVAL_SECONDS}s.")
             time.sleep(INTERVAL_SECONDS)
         else:
             print(f"⏳ Outside allowed hours — sleeping for 10 mins. Time: {datetime.now()}")
             time.sleep(600)
 
-# === MAIN ===
+# === Flask server (to keep alive) ===
+app = Flask(__name__)
 
+@app.route('/')
+def home():
+    return "✅ Bot is alive and running!"
+
+def run_web():
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host='0.0.0.0', port=port)
+
+# === Main Entry ===
 if __name__ == "__main__":
-    print("✅ Bot is running...")
-    keep_alive()
-    # Start vocab loop in background using Telebot's polling loop
-    import threading
+    print("✅ Starting bot service on Render...")
+    
+    # Start background web server
+    threading.Thread(target=run_web).start()
+    
+    # Start vocab scheduler in another thread
     threading.Thread(target=run_vocab_scheduler, daemon=True).start()
-
+    
+    # Start receiving bot updates
     bot.infinity_polling()
